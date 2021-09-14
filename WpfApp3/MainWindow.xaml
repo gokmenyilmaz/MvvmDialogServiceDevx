@@ -46,8 +46,6 @@
                                         <Setter Property="Margin" Value="4" />
                                     </Trigger>
 
-
-
                                 </Style.Triggers>
                             </Style>
                         </Setter.Value>
